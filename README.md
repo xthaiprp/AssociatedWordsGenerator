@@ -1,1 +1,1 @@
-# FindEnglishAssociatedWords
+# AssociatedWordsGenerator
